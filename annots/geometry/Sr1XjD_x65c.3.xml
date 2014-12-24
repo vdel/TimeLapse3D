@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<annotations version="1">
+  <image width="480" height="360" xmin="0" xmax="479" ymin="20" ymax="340" scale="1.0" distortion="0.0">Sr1XjD_x65c.3.jpg</image>
+  <corners>
+    <topleft>
+      <x>0.3333333333333333</x>
+      <y>0.1361111111111111</y>
+    </topleft>
+    <topright>
+      <x>1.0333333333333334</x>
+      <y>-0.24166666666666667</y>
+    </topright>
+    <bottomright>
+      <x>1.0229166666666667</x>
+      <y>0.8638888888888889</y>
+    </bottomright>
+    <bottomleft>
+      <x>0.32916666666666666</x>
+      <y>0.5972222222222222</y>
+    </bottomleft>
+    <depthvp>
+      <x>1.2625</x>
+      <y>0.37222222222222223</y>
+    </depthvp>
+    <ph>
+      <x>0.3333333333333333</x>
+      <y>0.1361111111111111</y>
+    </ph>
+  </corners>
+  <vps>
+    <vpx x="366.0" y="46.0" z="1.0" />
+    <vpy x="-320.3528319405756" y="33.71432992881463" z="1.0" />
+    <vpz x="47.18946787116704" y="-3572.708463018706" z="1.0" />
+    <pH x="-80.0" y="131.0" z="1.0" />
+    <p0 x="-82.0" y="-35.0" z="1.0" />
+    <p1 x="251.0" y="-131.0" z="1.0" />
+  </vps>
+  <params>
+    <camFocal x="342.10128329351625" y="342.10128329351625" z="2.016706216871342" />
+    <camAngle x="1.5898489995613738" y="1.475347535263075" z="2.322350251828138" />
+    <camPosition x="4.531831454225738" y="7.790695131409465" z="1.1064069013597226" />
+  </params>
+  <room>
+    <dimensions x="4.531831454225738" y="8.177648114471445" z="2.7" />
+    <floor>
+      <part id="0">
+        <face type="TOP">
+          <object name="Half Wall">
+            <position x="-1.4670780161277903" y="-0.7911022961478344" z="0.40111046184383925">1.5707963267948966</position>
+            <bounds xmin="-0.8411022961478345" xmax="-0.7411022961478344" ymin="-2.265915727112869" ymax="-0.6682403051427115" />
+            <variables>
+              <var name="height">0.8022209236876787</var>
+              <var name="width">1.5976754219701577</var>
+              <var name="thickness">0.1</var>
+            </variables>
+          </object>
+          <object name="Half Wall">
+            <position x="-0.7344995761023146" y="-1.5180987742586016" z="0.4011104618438397">3.141592653589793</position>
+            <bounds xmin="-2.1950952523693688" xmax="-0.8411022961478345" ymin="-0.7844995761023147" ymax="-0.6844995761023146" />
+            <variables>
+              <var name="height">0.8022209236876787</var>
+              <var name="width">1.3539929562215343</var>
+              <var name="thickness">0.1</var>
+            </variables>
+          </object>
+          <object name="Wall">
+            <position x="-1.4712803335363862" y="-3.141959654802546" z="-4.440892098500626E-16">0.0</position>
+            <bounds xmin="-4.088824057235723" xmax="-2.1950952523693688" ymin="-2.265915727112869" ymax="-0.6766449399599033" />
+            <variables>
+              <var name="width">1.8937288048663543</var>
+              <var name="depth">1.5892707871529659</var>
+            </variables>
+          </object>
+          <object name="Open Wall">
+            <position x="0.5129659945397513" y="-1.8796175096071457" z="0.0">1.5707963267948966</position>
+            <bounds xmin="-2.2730843388222235" xmax="-1.4861506803920679" ymin="0.06636308580533481" ymax="0.9595689032741679" />
+            <variables>
+              <var name="openheight">2.105950833477783</var>
+              <var name="width">0.8932058174688331</var>
+              <var name="thickness">0.7869336584301557</var>
+              <var name="openwidth">0.7648502734897029</var>
+              <var name="leftwidth">0.11537589948325455</var>
+            </variables>
+          </object>
+          <object name="Open Wall">
+            <position x="2.053178236505938" y="-0.5454969190256092" z="0.0">1.5707963267948966</position>
+            <bounds xmin="-0.9389637482406872" xmax="-0.15203008981053118" ymin="0.38965024198260967" ymax="3.7167062310292662" />
+            <variables>
+              <var name="openheight">2.148927870777745</var>
+              <var name="width">3.3270559890466567</var>
+              <var name="thickness">0.7869336584301557</var>
+              <var name="openwidth">3.1147153329254333</var>
+              <var name="leftwidth">0.11537589948325455</var>
+            </variables>
+          </object>
+          <object name="Footrest">
+            <position x="-0.32594261346946407" y="2.336361446175124" z="0.11480335933168463">1.5707963267948966</position>
+            <bounds xmin="2.076912040834" xmax="2.5958108515162484" ymin="-0.559259699174429" ymax="-0.09262552776449914" />
+            <variables>
+              <var name="height">0.22960671866336949</var>
+              <var name="width">0.4666341714099299</var>
+              <var name="depth">0.5188988106822484</var>
+            </variables>
+          </object>
+          <object name="Armchair">
+            <position x="0.2602919410790192" y="2.4273548811639114" z="5.551115123125783E-17">3.141592653589793</position>
+            <bounds xmin="2.124405024086097" xmax="2.730304738241726" ymin="-0.030457752505266222" ymax="0.5510416346633047" />
+            <variables>
+              <var name="armwidth">0.1</var>
+              <var name="armdepth">0.3804043673162689</var>
+              <var name="height">0.30070937317998137</var>
+              <var name="backheight">0.24902864929916524</var>
+              <var name="width">0.6058997141556287</var>
+              <var name="armheight">0.15</var>
+              <var name="backdepth">0.2</var>
+              <var name="depth">0.5814993871685707</var>
+            </variables>
+          </object>
+        </face>
+      </part>
+    </floor>
+    <ceiling />
+    <wall0 />
+    <wall1>
+      <part id="0">
+        <face type="FRONT">
+          <object name="TV">
+            <position x="0.05" y="1.7417160759068526" z="0.2420057271427536">0.0</position>
+            <bounds xmin="1.2417160759068526" xmax="2.2417160759068526" ymin="-0.6420057271427536" ymax="0.15799427285724643" />
+            <variables>
+              <var name="height">0.8</var>
+              <var name="width">1.0</var>
+              <var name="depth">0.1</var>
+            </variables>
+          </object>
+        </face>
+      </part>
+    </wall1>
+    <wall2 />
+    <wall3 />
+  </room>
+</annotations>

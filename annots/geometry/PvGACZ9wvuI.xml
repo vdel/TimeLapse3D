@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<annotations version="1">
+  <image width="480" height="360" xmin="2" xmax="476" ymin="0" ymax="359" scale="1.0" distortion="0.0">PvGACZ9wvuI.jpg</image>
+  <corners>
+    <topleft>
+      <x>0.46875</x>
+      <y>-0.058333333333333334</y>
+    </topleft>
+    <topright>
+      <x>1.2375</x>
+      <y>-0.23055555555555557</y>
+    </topright>
+    <bottomright>
+      <x>1.225</x>
+      <y>0.5944444444444444</y>
+    </bottomright>
+    <bottomleft>
+      <x>0.5104166666666666</x>
+      <y>0.525</y>
+    </bottomleft>
+    <depthvp>
+      <x>1.3416666666666666</x>
+      <y>-0.22777777777777777</y>
+    </depthvp>
+    <ph>
+      <x>0.46875</x>
+      <y>-0.058333333333333334</y>
+    </ph>
+  </corners>
+  <vps>
+    <vpx x="364.04841463484286" y="210.43515733730803" z="1.0" />
+    <vpy x="-578.2141223940818" y="32.32309646566543" z="1.0" />
+    <vpz x="224.25433593028845" y="-2234.1838042535646" z="1.0" />
+    <pH x="0.46875" y="-0.058333333333333334" z="1.0" />
+    <p0 x="4.999999999999972" y="-9.0" z="1.0" />
+    <p1 x="348.0" y="-34.0" z="1.0" />
+  </vps>
+  <params>
+    <camFocal x="451.4219310552223" y="563.6406292718422" z="12.051324087576532" />
+    <camAngle x="1.7216474981361767" y="1.3263683341313823" z="2.455690973813117" />
+    <camPosition x="11.843385919725474" y="4.5802940500385265" z="1.9633698549004748" />
+  </params>
+  <room>
+    <dimensions x="11.84338591972547" y="5.4753912279865276" z="2.7" />
+    <floor>
+      <part id="0">
+        <face type="TOP">
+          <object name="Coffee Table">
+            <position x="3.778502615651733" y="-0.4180838177061348" z="-1.1102230246251565E-16">0.0</position>
+            <bounds xmin="-0.8210514356660066" xmax="-0.015116199746262993" ymin="3.16214318128248" ymax="4.394862050020986" />
+            <variables>
+              <var name="height">0.36194657768084015</var>
+              <var name="footborder">0.03656828062795007</var>
+              <var name="width">0.8059352359197436</var>
+              <var name="thickness">0.06945555173474306</var>
+              <var name="footwidth">0.06815831231490015</var>
+              <var name="depth">1.2327188687385067</var>
+            </variables>
+          </object>
+          <object name="Sofa">
+            <position x="3.729431823814585" y="-2.072366219549985" z="-1.1102230246251565E-16">1.5707963267948966</position>
+            <bounds xmin="-2.7376956139932633" xmax="-1.4070368251067067" ymin="2.6057159439253605" ymax="4.85314770370381" />
+            <variables>
+              <var name="armwidth">0.22060441548439141</var>
+              <var name="armdepth">0.6725167482564436</var>
+              <var name="height">0.39680626252724577</var>
+              <var name="backheight">0.5169108415730893</var>
+              <var name="width">2.247431759778449</var>
+              <var name="armheight">0.12143983776905312</var>
+              <var name="backdepth">0.5657076740489198</var>
+              <var name="depth">1.3306587888865566</var>
+            </variables>
+          </object>
+          <object name="Christmas Tree">
+            <position x="0.8717125645554159" y="-1.8701667277550689" z="-2.220446049250313E-16">0.0</position>
+            <bounds xmin="-2.3289526808455987" xmax="-1.4113807746645388" ymin="0.41292661146488585" ymax="1.330498517645946" />
+            <variables>
+              <var name="height">2.0</var>
+              <var name="trunkheight">0.3</var>
+              <var name="width">0.9175719061810601</var>
+              <var name="trunkwidth">0.1</var>
+            </variables>
+          </object>
+          <object name="Coffee Table">
+            <position x="2.0498153174958276" y="-2.0150190743961467" z="1.1102230246251565E-16">1.5707963267948966</position>
+            <bounds xmin="-2.3549777135475805" xmax="-1.675060435244713" ymin="1.7127633133200184" ymax="2.3868673216716365" />
+            <variables>
+              <var name="height">0.7082266269941526</var>
+              <var name="footborder">0.07753203843181034</var>
+              <var name="width">0.6741040083516183</var>
+              <var name="thickness">0.05</var>
+              <var name="footwidth">0.08</var>
+              <var name="depth">0.6799172783028673</var>
+            </variables>
+          </object>
+          <object name="Open Wall">
+            <position x="-0.44553834371180545" y="-1.0877166004766776" z="0.0">0.0</position>
+            <bounds xmin="-2.7376956139932638" xmax="0.5622624130399085" ymin="-1.119002989909022" ymax="0.2279263024854109" />
+            <variables>
+              <var name="openheight">1.5933819786864358</var>
+              <var name="width">3.2999580270331723</var>
+              <var name="thickness">1.3469292923944327</var>
+              <var name="openwidth">2.7428972701657908</var>
+              <var name="leftwidth">0.014597263713827857</var>
+            </variables>
+            <part id="1">
+              <face type="FRONT">
+                <object name="Painting">
+                  <position x="-3.3306690738754696E-16" y="-0.4501885555304268" z="-0.0033792817388563767">0.0</position>
+                  <bounds xmin="-0.6318163219611916" xmax="-0.26856078909966197" ymin="-0.18844194616677032" ymax="0.19520050964448307" />
+                  <variables>
+                    <var name="height">0.3836424558112534</var>
+                    <var name="width">0.3632555328615297</var>
+                  </variables>
+                </object>
+                <object name="Painting">
+                  <position x="-3.3306690738754696E-16" y="0.31438192294256573" z="-0.046454679298725376">0.0</position>
+                  <bounds xmin="0.1327541565118009" xmax="0.49600968937333056" ymin="-0.14536654860690132" ymax="0.23827590720435207" />
+                  <variables>
+                    <var name="height">0.3836424558112534</var>
+                    <var name="width">0.3632555328615297</var>
+                  </variables>
+                </object>
+                <object name="Painting">
+                  <position x="-3.3306690738754696E-16" y="1.032002531146147" z="-0.10161800562464351">0.0</position>
+                  <bounds xmin="0.8503747647153821" xmax="1.2136302975769118" ymin="-0.09020322228098318" ymax="0.29343923353027024" />
+                  <variables>
+                    <var name="height">0.3836424558112534</var>
+                    <var name="width">0.3632555328615297</var>
+                  </variables>
+                </object>
+              </face>
+            </part>
+          </object>
+          <object name="Cupboard">
+            <position x="-0.5676234827522046" y="-1.468948720609669" z="0.5334416849809055">3.141592653589793</position>
+            <bounds xmin="-2.7376956139932638" xmax="-0.20020182722607416" ymin="-0.910345363332256" ymax="-0.22490160217215333" />
+            <variables>
+              <var name="height">1.0668833699618112</var>
+              <var name="width">2.5374937867671896</var>
+              <var name="depth">0.6854437611601023</var>
+            </variables>
+            <part id="0">
+              <face type="TOP">
+                <object name="Stuff">
+                  <position x="0.050090104398901075" y="-0.11612678739578064" z="0.1">0.0</position>
+                  <bounds xmin="-0.3354873982897323" xmax="0.10323382349817103" ymin="-0.10518926658471328" ymax="0.20536947538251543" />
+                  <variables>
+                    <var name="height">0.2</var>
+                    <var name="width">0.43872122178790335</var>
+                    <var name="depth">0.3105587419672287</var>
+                  </variables>
+                </object>
+                <object name="Stuff">
+                  <position x="0.18744250959643682" y="-0.5121943777960631" z="0.1">0.0</position>
+                  <bounds xmin="-0.658296905630334" xmax="-0.3660918499617922" ymin="0.03216313861282247" ymax="0.34272188058005115" />
+                  <variables>
+                    <var name="height">0.2</var>
+                    <var name="width">0.2922050556685419</var>
+                    <var name="depth">0.3105587419672287</var>
+                  </variables>
+                </object>
+              </face>
+            </part>
+          </object>
+          <object name="Chair">
+            <position x="0.6526827854566035" y="-1.025218047022977" z="0.0">1.5707963267948966</position>
+            <bounds xmin="-1.3149364226797737" xmax="-0.7354996713661803" ymin="0.36296440979980693" ymax="0.9424011611134002" />
+            <variables>
+              <var name="height">0.5009615421360005</var>
+              <var name="backheight">0.5005696399139768</var>
+              <var name="backthickness">0.05</var>
+              <var name="sitthickness">0.05</var>
+              <var name="footborder">0.0</var>
+              <var name="width">0.5794367513135932</var>
+              <var name="footwidth">0.08</var>
+            </variables>
+          </object>
+          <object name="Chair">
+            <position x="0.261142597070555" y="-0.44578129570938363" z="0.0">6.283185307179586</position>
+            <bounds xmin="-0.7354996713661803" xmax="-0.15606292005258698" ymin="-0.028575778586241662" ymax="0.5508609727273517" />
+            <variables>
+              <var name="height">0.47803488494636937</var>
+              <var name="backheight">0.4677885041854215</var>
+              <var name="backthickness">0.05</var>
+              <var name="sitthickness">0.05</var>
+              <var name="footborder">0.0</var>
+              <var name="width">0.5794367513135932</var>
+              <var name="footwidth">0.08</var>
+            </variables>
+          </object>
+          <object name="Chair">
+            <position x="0.5176446781422075" y="0.293952366480439" z="1.1102230246251565E-16">6.283185307179586</position>
+            <bounds xmin="0.05606518464091399" xmax="0.531839548319964" ymin="0.2797574963026825" ymax="0.7555318599817324" />
+            <variables>
+              <var name="height">0.7354702385028349</var>
+              <var name="backheight">0.4677885041854215</var>
+              <var name="backthickness">0.05</var>
+              <var name="sitthickness">0.05</var>
+              <var name="footborder">0.0</var>
+              <var name="width">0.4757743636790499</var>
+              <var name="footwidth">0.05331268509926072</var>
+            </variables>
+          </object>
+          <object name="Fridge">
+            <position x="-4.694629432300287" y="-2.2876956139932636" z="0.7500000000000004">1.5707963267948966</position>
+            <bounds xmin="-2.7376956139932638" xmax="-1.8376956139932634" ymin="-5.194629432300287" ymax="-4.194629432300287" />
+            <variables>
+              <var name="height">1.5</var>
+              <var name="width">1.0</var>
+              <var name="depth">0.9</var>
+            </variables>
+          </object>
+        </face>
+      </part>
+    </floor>
+    <ceiling />
+    <wall0>
+      <part id="0">
+        <face type="FRONT">
+          <object name="Painting">
+            <position x="1.260198220105345E-17" y="-4.001509422215757" z="0.42703320451811533">0.0</position>
+            <bounds xmin="-4.556426870757763" xmax="-3.446591973673751" ymin="-0.7241648413355898" ymax="-0.12990156770064087" />
+            <variables>
+              <var name="height">0.5942632736349489</var>
+              <var name="width">1.1098348970840122</var>
+            </variables>
+          </object>
+        </face>
+      </part>
+    </wall0>
+    <wall1 />
+    <wall2 />
+    <wall3 />
+  </room>
+</annotations>

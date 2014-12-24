@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<annotations version="1">
+  <image width="480" height="360" xmin="0" xmax="479" ymin="0" ymax="359" scale="1.0" distortion="0.0">Yx0t6CBvTRw.1.jpg</image>
+  <corners>
+    <topleft>
+      <x>0.22291666666666668</x>
+      <y>-0.4361111111111111</y>
+    </topleft>
+    <topright>
+      <x>1.2583333333333333</x>
+      <y>-0.4027777777777778</y>
+    </topright>
+    <bottomright>
+      <x>1.1895833333333334</x>
+      <y>0.575</y>
+    </bottomright>
+    <bottomleft>
+      <x>0.275</x>
+      <y>0.37777777777777777</y>
+    </bottomleft>
+    <depthvp>
+      <x>1.3479166666666667</x>
+      <y>-0.14166666666666666</y>
+    </depthvp>
+    <ph>
+      <x>0.22291666666666668</x>
+      <y>-0.4361111111111111</y>
+    </ph>
+  </corners>
+  <vps>
+    <vpx x="407.0" y="231.0" z="1.0" />
+    <vpy x="-1075.3835616438355" y="184.12328767123287" z="1.0" />
+    <vpz x="46.72046109510086" y="-1553.7406340057637" z="1.0" />
+    <pH x="0.22291666666666668" y="-0.4361111111111111" z="1.0" />
+    <p0 x="-108.0" y="44.0" z="1.0" />
+    <p1 x="331.0" y="-26.99999999999997" z="1.0" />
+  </vps>
+  <params>
+    <camFocal x="606.2957980838536" y="606.2957980838536" z="7.875372048432389" />
+    <camAngle x="1.6123840336402127" y="1.199789302541458" z="2.592664008531196" />
+    <camPosition x="4.618604784251238" y="5.171942878678542" z="1.8235053578827705" />
+  </params>
+  <room>
+    <dimensions x="4.618604784251238" y="5.918061861365459" z="2.7" />
+    <floor>
+      <part id="0">
+        <face type="TOP">
+          <object name="Shelf">
+            <position x="-2.057278635079115" y="-0.02449967024329558" z="1.1438383806960208">0.0</position>
+            <bounds xmin="-1.0035095883215317" xmax="0.9545102478349405" ymin="-2.309302392125619" ymax="-1.8052548780326108" />
+            <variables>
+              <var name="height">2.2876767613920412</var>
+              <var name="width">1.9580198361564722</var>
+              <var name="depth">0.5040475140930079</var>
+            </variables>
+          </object>
+          <object name="Cupboard">
+            <position x="-2.059302392125619" y="-1.3071410983281173" z="0.3675978032512497">0.0</position>
+            <bounds xmin="-1.5383327484851148" xmax="-1.0759494481711198" ymin="-2.309302392125619" ymax="-1.8093023921256188" />
+            <variables>
+              <var name="height">0.7351956065024996</var>
+              <var name="width">0.4623833003139949</var>
+              <var name="depth">0.5</var>
+            </variables>
+          </object>
+          <object name="Open Wall">
+            <position x="-0.007066426407394966" y="-1.9455285333431647" z="0.0">1.5707963267948966</position>
+            <bounds xmin="-2.0285025053924017" xmax="-1.8625545612939274" ymin="-2.309302392125619" ymax="2.2951695393108293" />
+            <variables>
+              <var name="openheight">2.0</var>
+              <var name="width">4.604471931436448</var>
+              <var name="thickness">0.16594794409847427</var>
+              <var name="openwidth">2.8260782157288507</var>
+              <var name="leftwidth">1.0</var>
+            </variables>
+          </object>
+        </face>
+      </part>
+    </floor>
+    <ceiling />
+    <wall0 />
+    <wall1>
+      <part id="0">
+        <face type="FRONT">
+          <object name="Painting">
+            <position x="4.440892098500626E-16" y="-1.5505164894539551" z="-0.1058079406276633">0.0</position>
+            <bounds xmin="-1.8434173989927118" xmax="-1.2576155799151985" ymin="-0.08050878643150891" ymax="0.29212466768683554" />
+            <variables>
+              <var name="height">0.3726334541183444</var>
+              <var name="width">0.5858018190775132</var>
+            </variables>
+          </object>
+        </face>
+      </part>
+    </wall1>
+    <wall2 />
+    <wall3 />
+  </room>
+</annotations>

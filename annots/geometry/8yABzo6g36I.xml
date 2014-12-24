@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<annotations version="1">
+  <image width="600" height="338" xmin="75" xmax="524" ymin="0" ymax="337" scale="0.46875" distortion="0.0">8yABzo6g36I.jpg</image>
+  <corners>
+    <topleft>
+      <x>0.27</x>
+      <y>0.0</y>
+    </topleft>
+    <topright>
+      <x>0.8016666666666666</x>
+      <y>0.0</y>
+    </topright>
+    <bottomright>
+      <x>0.8</x>
+      <y>0.8372781065088757</y>
+    </bottomright>
+    <bottomleft>
+      <x>0.275</x>
+      <y>0.8431952662721893</y>
+    </bottomleft>
+    <depthvp>
+      <x>0.49833333333333335</x>
+      <y>0.45857988165680474</y>
+    </depthvp>
+    <ph>
+      <x>0.27</x>
+      <y>0.0</y>
+    </ph>
+  </corners>
+  <vps>
+    <vpx x="-1.0" y="14.0" z="1.0" />
+    <vpy x="-17462.0" y="-169.0" z="1.0" />
+    <vpz x="71.0" y="-5797.0" z="1.0" />
+    <pH x="0.27" y="0.0" z="1.0" />
+    <p0 x="-135.0" y="-116.0" z="1.0" />
+    <p1 x="180.0" y="-114.0" z="1.0" />
+  </vps>
+  <params>
+    <camFocal x="267.7880503652465" y="267.7880503652465" z="-0.49087127551155074" />
+    <camAngle x="1.581182357328575" y="1.52463740240384" z="3.126243021682593" />
+    <camPosition x="2.535807276682542" y="3.7584102904591687" z="1.2353110379872325" />
+  </params>
+  <room>
+    <dimensions x="2.515443015745049" y="5.43163054240291" z="2.7" />
+    <floor>
+      <part id="0">
+        <face type="TOP">
+          <object name="Christmas Tree">
+            <position x="-0.8480913072355298" y="0.22030956413744918" z="0.0">0.0</position>
+            <bounds xmin="-0.1889553780260883" xmax="0.6295745063009867" ymin="-1.2573562493990673" ymax="-0.43882636507199235" />
+            <variables>
+              <var name="height">2.0</var>
+              <var name="trunkheight">0.3</var>
+              <var name="width">0.818529884327075</var>
+              <var name="trunkwidth">0.1</var>
+            </variables>
+          </object>
+          <object name="Sofa">
+            <position x="0.20939738075560066" y="2.1619822895616805" z="2.220446049250313E-16">4.71238898038469</position>
+            <bounds xmin="1.6081493079219058" xmax="2.715815271201455" ymin="-0.7422784921274754" ymax="1.1610732536386767" />
+            <variables>
+              <var name="armwidth">0.2</var>
+              <var name="armdepth">0.8021173069858369</var>
+              <var name="height">0.47047453595197886</var>
+              <var name="backheight">0.5910245330899804</var>
+              <var name="width">1.9033517457661522</var>
+              <var name="armheight">0.22896656294697051</var>
+              <var name="backdepth">0.3</var>
+              <var name="depth">1.107665963279549</var>
+            </variables>
+          </object>
+          <object name="Shelf">
+            <position x="-1.095897268021143" y="2.547476217207513" z="0.5294790771397879">4.71238898038469</position>
+            <bounds xmin="2.3791371632135707" xmax="2.715815271201455" ymin="-1.2577215078725246" ymax="-0.9340730281697612" />
+            <variables>
+              <var name="height">1.0589581542795758</var>
+              <var name="width">0.32364847970276345</var>
+              <var name="depth">0.3366781079878847</var>
+            </variables>
+          </object>
+          <object name="Cupboard">
+            <position x="-1.1342343540752158" y="-1.088323520084955" z="0.2957931420836366">25.132741228718352</position>
+            <bounds xmin="-1.574222496444002" xmax="-0.6024245437259081" ymin="-1.2577215078725246" ymax="-1.010747200277907" />
+            <variables>
+              <var name="height">0.5915862841672735</var>
+              <var name="width">0.9717979527180922</var>
+              <var name="depth">0.24697430759462335</var>
+            </variables>
+            <part id="0">
+              <face type="TOP">
+                <object name="TV">
+                  <position x="0.02292485191353104" y="0.0033284351529755812" z="0.29140727612497386">0.0</position>
+                  <bounds xmin="-0.34636611809134976" xmax="0.35302298839730095" ymin="-0.027075148086468964" ymax="0.07292485191353104" />
+                  <variables>
+                    <var name="height">0.5828145522499479</var>
+                    <var name="width">0.6993891064886507</var>
+                    <var name="depth">0.1</var>
+                  </variables>
+                </object>
+              </face>
+            </part>
+          </object>
+        </face>
+      </part>
+    </floor>
+    <ceiling />
+    <wall0 />
+    <wall1>
+      <part id="0">
+        <face type="FRONT">
+          <object name="Window">
+            <position x="0.0" y="1.1016917158917585" z="-0.11307256747189631">0.0</position>
+            <bounds xmin="-0.15394392596418172" xmax="2.3573273577476987" ymin="-1.123854888898065" ymax="1.350000023841858" />
+            <variables>
+              <var name="height">2.473854912739923</var>
+              <var name="width">2.5112712837118805</var>
+            </variables>
+          </object>
+          <object name="Window">
+            <position x="0.0" y="-1.5060922003566248" z="-0.06942771597841912">0.0</position>
+            <bounds xmin="-2.338744064340474" xmax="-0.6734403363727758" ymin="-1.2111445918850197" ymax="1.350000023841858" />
+            <variables>
+              <var name="height">2.5611446157268776</var>
+              <var name="width">1.665303727967698</var>
+            </variables>
+          </object>
+        </face>
+      </part>
+    </wall1>
+    <wall2>
+      <part id="0">
+        <face type="FRONT">
+          <object name="Painting">
+            <position x="3.775319994897325E-17" y="-0.6708011576862993" z="0.41280599656534567">0.0</position>
+            <bounds xmin="-0.8823323096375231" xmax="-0.45927000573507565" ymin="-0.6755488986338777" ymax="-0.15006309449681365" />
+            <variables>
+              <var name="height">0.525485804137064</var>
+              <var name="width">0.42306230390244737</var>
+            </variables>
+          </object>
+        </face>
+      </part>
+    </wall2>
+    <wall3 />
+  </room>
+</annotations>

@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<annotations version="1">
+  <image width="600" height="450" xmin="0" xmax="599" ymin="0" ymax="449" scale="0.9375" distortion="0.0">Z2DxCsszdDc.jpg</image>
+  <corners>
+    <topleft>
+      <x>0.165</x>
+      <y>0.11555555555555555</y>
+    </topleft>
+    <topright>
+      <x>0.46</x>
+      <y>0.17333333333333334</y>
+    </topright>
+    <bottomright>
+      <x>0.4633333333333333</x>
+      <y>0.7377777777777778</y>
+    </bottomright>
+    <bottomleft>
+      <x>0.17</x>
+      <y>0.7933333333333333</y>
+    </bottomleft>
+    <depthvp>
+      <x>-0.43666666666666665</x>
+      <y>0.4622222222222222</y>
+    </depthvp>
+    <ph>
+      <x>0.16166666666666665</x>
+      <y>-0.008888888888888889</y>
+    </ph>
+  </corners>
+  <vps>
+    <vpx x="-562.0" y="17.0" z="1.0" />
+    <vpy x="856.0642150872126" y="17.72503055216086" z="1.0" />
+    <vpz x="-42.49068876079991" y="10464.645085007987" z="1.0" />
+    <pH x="0.16166666666666665" y="-0.008888888888888889" z="1.0" />
+    <p0 x="-198.0" y="-132.0" z="1.0" />
+    <p1 x="-22.0" y="-107.0" z="1.0" />
+  </vps>
+  <params>
+    <camFocal x="683.2543703514232" y="683.2543703514232" z="10.126759057444193" />
+    <camAngle x="1.5896864292027757" y="1.6359807553189913" z="-2.463767532131201" />
+    <camPosition x="4.857257546425677" y="0.32109810229877267" z="0.6089189752951748" />
+  </params>
+  <room>
+    <dimensions x="4.857257546425679" y="3.9774682145744342" z="2.7" />
+    <floor>
+      <part id="0">
+        <face type="TOP">
+          <object name="Christmas Tree">
+            <position x="-1.0222884894749495" y="1.0181976627687375" z="-1.1102230246251565E-16">0.0</position>
+            <bounds xmin="0.6390146546112733" xmax="1.3973806709262018" ymin="-1.4014714976324139" ymax="-0.6431054813174854" />
+            <variables>
+              <var name="height">1.765149089813395</var>
+              <var name="trunkheight">0.09591836211808158</var>
+              <var name="width">0.7583660163149284</var>
+              <var name="trunkwidth">0.1</var>
+            </variables>
+          </object>
+          <object name="Chair">
+            <position x="-1.7232460244259797" y="-0.27534107565606325" z="-2.220446049250313E-16">0.0</position>
+            <bounds xmin="-0.4266585923833606" xmax="-0.12402355892876588" ymin="-1.874563541153277" ymax="-1.5719285076986824" />
+            <variables>
+              <var name="height">0.2886015739240232</var>
+              <var name="backheight">0.24532515132432597</var>
+              <var name="backthickness">0.05</var>
+              <var name="sitthickness">0.05</var>
+              <var name="footborder">3.147378510748311E-4</var>
+              <var name="width">0.30263503345459475</var>
+              <var name="footwidth">0.05033986764552505</var>
+            </variables>
+          </object>
+          <object name="Stuff">
+            <position x="1.1028040694771257" y="0.35215865463661267" z="0.17144840849686874">0.0</position>
+            <bounds xmin="0.1764095633136754" xmax="0.5279077459595499" ymin="0.8142084126485462" ymax="1.3913997263057052" />
+            <variables>
+              <var name="height">0.3428968169937358</var>
+              <var name="width">0.3514981826458745</var>
+              <var name="depth">0.5771913136571591</var>
+            </variables>
+          </object>
+          <object name="Stuff">
+            <position x="0.9511845682899844" y="-0.159320284683786" z="0.09736454066709278">0.0</position>
+            <bounds xmin="-0.33506937600672326" xmax="0.01642880663915125" ymin="0.8246498600998933" ymax="1.0777192764800756" />
+            <variables>
+              <var name="height">0.19472908133418157</var>
+              <var name="width">0.3514981826458745</var>
+              <var name="depth">0.25306941638018243</var>
+            </variables>
+          </object>
+        </face>
+      </part>
+    </floor>
+    <ceiling />
+    <wall0 />
+    <wall1>
+      <part id="0">
+        <face type="FRONT">
+          <object name="Window">
+            <position x="0.0" y="1.0789985030280025" z="0.16297575262974529">0.0</position>
+            <bounds xmin="0.35046725334102713" xmax="1.8075297527149778" ymin="-0.9435016865709676" ymax="0.617550181311477" />
+            <variables>
+              <var name="height">1.5610518678824445</var>
+              <var name="width">1.4570624993739507</var>
+            </variables>
+          </object>
+          <object name="Painting">
+            <position x="0.0" y="-0.30388771001321524" z="-0.0228386137387242">0.0</position>
+            <bounds xmin="-0.6954028954175018" xmax="0.0876274753910713" ymin="-0.49042025843318726" ymax="0.5360974859106357" />
+            <variables>
+              <var name="height">1.026517744343823</var>
+              <var name="width">0.7830303708085731</var>
+            </variables>
+          </object>
+        </face>
+      </part>
+    </wall1>
+    <wall2>
+      <part id="0">
+        <face type="FRONT">
+          <object name="Window">
+            <position x="-1.0676949435902863E-15" y="-1.500833731160129" z="0.07713748246734387">0.0</position>
+            <bounds xmin="-2.21027396763437" xmax="-0.7913934946858882" ymin="-0.8271374824673439" ymax="0.6728625175326561" />
+            <variables>
+              <var name="height">1.5</var>
+              <var name="width">1.4188804729484816</var>
+            </variables>
+          </object>
+          <object name="Window">
+            <position x="-1.1936834178885456E-15" y="0.06788192944748439" z="0.0038758124445914532">0.0</position>
+            <bounds xmin="-0.6415583070267564" xmax="0.7773221659217252" ymin="-0.7538758124445915" ymax="0.7461241875554085" />
+            <variables>
+              <var name="height">1.5</var>
+              <var name="width">1.4188804729484816</var>
+            </variables>
+          </object>
+        </face>
+      </part>
+    </wall2>
+    <wall3 />
+  </room>
+</annotations>
